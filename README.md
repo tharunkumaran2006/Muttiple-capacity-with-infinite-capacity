@@ -19,7 +19,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-![image](https://github.com/user-attachments/assets/5f10b54e-2e20-4901-b5a2-e348978da7b4)
+![image](https://github.com/user-attachments/assets/a60a7da7-0bef-4a10-81af-6091581db437)
 
 ![image](https://github.com/user-attachments/assets/f364e80c-1cc7-4028-82b3-e4b04a70847d)
 
@@ -62,7 +62,7 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output :
-![image](https://github.com/user-attachments/assets/a60a7da7-0bef-4a10-81af-6091581db437)
+![image](https://github.com/user-attachments/assets/5f10b54e-2e20-4901-b5a2-e348978da7b4)
 
 
 ## Result : 
